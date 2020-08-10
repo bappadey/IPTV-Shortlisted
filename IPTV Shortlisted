@@ -334,7 +334,8 @@ http://tv.ebox.live:8080/live/bein-sports-eng-11.m3u8
 http://tv.ebox.live:8080/live/bein-sports-fr-1.m3u8
 
 
-#EXTINF:0 tvg-logo="https://tv.releasemyad.com/images/logo/20160108044853abp-ananada.jpg"  group-title="News",ABP Ananda
+
+#EXTINF:0 tvg-logo="https://i.imgur.com/jZIRvpo.png" group-title="News",ABP Ananda
 https://abp-i.akamaihd.net/hls/live/765530/abpananda/master.m3u8
 
 #EXTINF:0 tvg-logo="https://i.imgur.com/SpBW5W2.png" group-title="News",BBC World
@@ -354,9 +355,6 @@ http://103.135.208.14/live/ibox/bd/106.m3u8
 
 #EXTINF:0 tvg-logo="https://i.imgur.com/dZf1cis.png" group-title="News",Sky News
 https://skynewsau-live.akamaized.net/hls/live/2002689/skynewsau-extra1/master.m3u8
-
-#EXTINF:0 tvg-logo="https://i.imgur.com/jZIRvpo.png" group-title="News",ABP Ananda
-http://103.115.159.38:8080/live/asifmtbsl/asifmtbsl/98.m3u8
 
 #EXTINF:0 tvg-logo="https://i.imgur.com/43lszhG.png" group-title="News",NDTV 24x7
 https://ndtv24x7elemarchana.akamaized.net/hls/live/2003678/ndtv24x7/ndtv24x7master.m3u8
