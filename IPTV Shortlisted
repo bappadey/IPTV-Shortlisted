@@ -148,7 +148,7 @@ https://itpolly.iptv.digijadoo.net/live/colors_infinity/chunks.m3u8
 
 
 
-#EXTINF:0 tvg-logo=" https://i.imgur.com/gigcgc2.png" group-title="ENTERTAINMENT"group-title="Movie",Jalsha Movies
+#EXTINF:0 tvg-logo="https://upload.wikimedia.org/wikipedia/en/a/ac/Jalsha_movies.png" group-title="Movie",Jalsha Movies
 https://itpolly.iptv.digijadoo.net/live/jalsha_movies/chunks.m3u8
 
 #EXTINF:0 tvg-logo="https://s4.gifyu.com/images/imagebe2ca8f50c9c4956.png" group-title="Movie",Zee Bangla Cinema
