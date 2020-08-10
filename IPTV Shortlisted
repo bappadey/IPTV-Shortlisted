@@ -334,7 +334,7 @@ http://tv.ebox.live:8080/live/bein-sports-eng-11.m3u8
 http://tv.ebox.live:8080/live/bein-sports-fr-1.m3u8
 
 
-#EXTINF:0 tvg-logo="https://tv.releasemyad.com/images/logo/20160108044853abp-ananada.jpg"  group-title="News",BBC World
+#EXTINF:0 tvg-logo="https://tv.releasemyad.com/images/logo/20160108044853abp-ananada.jpg"  group-title="News",ABP Ananda
 https://abp-i.akamaihd.net/hls/live/765530/abpananda/master.m3u8
 
 #EXTINF:0 tvg-logo="https://i.imgur.com/SpBW5W2.png" group-title="News",BBC World
