@@ -1,7 +1,7 @@
 #EXTM3U
 
 #EXTINF:0 tvg-language="Bangla" tvg-logo="https://s4.gifyu.com/images/image062cdddeb243234b.png" group-title="Bangladesh",BTV
-https://www.youtube.com/watch?v=chNNQVk0NmQ.m3u8
+https://cdn2.vectorstock.com/i/1000x1000/74/91/error-message-computer-window-alert-popup-system-vector-27127491.jpg.m3u8
 
 #EXTINF:0 tvg-language="Bangla" tvg-logo="https://s4.gifyu.com/images/imagebb321a165fe5204d.png" group-title="Bangladesh",BTV World
 https://itpolly.iptv.digijadoo.net/live/btv_world/chunks.m3u8
