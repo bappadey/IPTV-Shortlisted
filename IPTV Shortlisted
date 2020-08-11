@@ -27,6 +27,7 @@ https://itpolly.iptv.digijadoo.net/live/bangla_vision/chunks.m3u8
 #EXTINF:0 tvg-logo="https://s6.gifyu.com/images/image87250d092deb08a2.png" group-title="Bangladesh",Bangla TV
 http://103.205.133.42:1935/local/bangla_tv_hd_720/index.m3u8
 
+
 #EXTINF:0 tvg-logo="https://i.imgur.com/xoy92At.png" group-title="Bangladesh",Bijoy TV
 http://ddn.amrbd.com:8081/live/bijoytv/playlist.m3u8
 
@@ -55,8 +56,7 @@ https://itpolly.iptv.digijadoo.net/live/desh_tv/chunks.m3u8
 https://itpolly.iptv.digijadoo.net/live/duronto_tv/chunks.m3u8
 
 #EXTINF:0 tvg-logo="https://s4.gifyu.com/images/imagea02f4314e761661d.png" group-title="Bangladesh",Ekattor
-https://itpolly.iptv.digijadoo.net/live/ekattor_tv/chunks.m3u8
-
+https://edge4.bioscopelive.com/hls/Yu3ifDulrhL/nVTHTDRisXkYVcBZ9NYXyw/1597156911/ekattur_tv_low/index.m3u8
 #EXTINF:0 tvg-logo="https://s4.gifyu.com/images/image534fa27d7683f33d.png" group-title="Bangladesh",Ekushey TV
 https://itpolly.iptv.digijadoo.net/live/ekushey_tv/chunks.m3u8
 
@@ -94,7 +94,7 @@ https://itpolly.iptv.digijadoo.net/live/rtv/playlist.m3u8
 https://itpolly.iptv.digijadoo.net/live/sa_tv/playlist.m3u8
 
 #EXTINF:0 tvg-logo="https://s4.gifyu.com/images/image099aceca4574557b.png" group-title="Bangladesh",Shomoy TV
-https://itpolly.iptv.digijadoo.net/live/somoy_news/chunks.m3u8
+https://itpolly.iptv.digijadoo.net/live/somoy_news/chunks.m3u8 
 
 #EXTINF:0 tvg-logo="https://upload.wikimedia.org/wikipedia/en/d/d0/Star_Jalsha_logo.jpg" group-title="ENTERTAINMENT",Star Jalsha HD
 https://edge01.iptv.digijadoo.net/live/star_jalsha_hd/playlist.m3u8
@@ -148,6 +148,9 @@ http://103.115.159.38:8080/live/asifmtbsl/asifmtbsl/06.m3u8
 http://iptv.kitv.live:1935/live/Shari/MTV-P/179.m3u8
 
 
+
+#EXTINF:0 tvg-logo="https://lh3.googleusercontent.com/proxy/sRhRg-W38Iy3-BsOP_13SxBR_CViKlUdtf6xJsCAM2E3q0-83kutgdOXAoirQpMnj1F1r_XdECBXmUIZaQ2vgY4TMNIaPubLl-PEbMfIp10cQ8K6Fg" group-title="Movie",Bongo Movies
+https://edge4.bioscopelive.com/hls/Yu3ifDulrhL/WfvEqSfhtgd46P6HtWdKmg/1597157057/bongo_movies_low/index.m3u8
 
 #EXTINF:0 tvg-logo="https://upload.wikimedia.org/wikipedia/en/a/ac/Jalsha_movies.png" group-title="Movie",Jalsha Movies
 https://itpolly.iptv.digijadoo.net/live/jalsha_movies/chunks.m3u8
@@ -220,8 +223,12 @@ http://livecdnh1.tvanywhere.ae:80/hls/star_movies/index.m3u8
 
 
 
+
 #EXTINF:0 tvg-logo="https://www.sangeetbangla.com/wp-content/uploads/2017/05/sangeet-bangla-logo-small.png" group-title="Music",SangeetBangla
 https://edge01.iptv.digijadoo.net/live/sangeet_bangla/chunks.m3u8
+
+#EXTINF:0 tvg-logo="https://pbs.twimg.com/profile_images/378800000854614392/14dd9175547b7ac0456d0cce3bf14a74_400x400.png" group-title="Music",Dhoom Music
+https://edge4.bioscopelive.com/hls/Yu3ifDulrhL/0uwZ5pJfc5422EamMP3CVA/1597157275/dhoom_low/index.m3u8
 
 #EXTINF:0 tvg-logo="https://i.imgur.com/nKEj8nf.png" group-title="Music",MTV India
 http://iptv.kitv.live:1935/live/Shari/MTV-P/181.m3u8
