@@ -339,10 +339,13 @@ http://jiocgehub.jio.ril.com/Dsports_HD/Dsports_HD_800.m3u8
 
 
 #EXTINF:0 tvg-logo="https://i.imgur.com/jZIRvpo.png" group-title="News",ABP Ananda
-https://abp-i.akamaihd.net/hls/live/765530/abpananda/master.m3u8
+https://abp-i.akamaihd.net/hls/live/765530-b/abpananda/masterhls_1564.m3u8
 
 #EXTINF:0 tvg-logo="https://i.imgur.com/SpBW5W2.png" group-title="News",BBC World
 https://itpolly.iptv.digijadoo.net/live/bbc_world/chunks.m3u8
+
+#EXTINF:0 tvg-logo="https://banner2.cleanpng.com/20180616/wtw/kisspng-united-states-voice-of-america-voa-amharic-voa-som-martial-arts-film-5b24ff9d6c2c39.7710532415291513894431.jpg" group-title="News",VOA
+https://voa-lh.akamaihd.net/i/voa_mpls_tvmc6@320298/index_0360_av-p.m3u8?sd=10&rebase=on
 
 #EXTINF:0 tvg-logo="https://i.imgur.com/Mxm77nQ.png" group-title="News",Al Jazeera
 https://live-hls-web-aje.getaj.net/AJE/05.m3u8
